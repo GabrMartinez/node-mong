@@ -1,12 +1,17 @@
-import React from "react"
-import ReactDOM from "react-dom"
-import App from "./ui/layout/App"
-import {Provider} from "react-redux"
-import store from "./api/store"
+// import React from "react"
+// import ReactDOM from "react-dom"
+// import App from "./ui/layout/App"
+// import {Provider} from "react-redux"
+// import store from "./api/store"
 
-ReactDOM.render(
-    <Provider store={store}>
-        <App/>
-    </Provider>,
-    document.getElementById("root")
-)
+// ReactDOM.render(
+//     <Provider store={store}>
+//         <App/>
+//     </Provider>,
+//     document.getElementById("root")
+// )
+
+let a = 1;
+ class App {};
+ 
+console.log("hola mundo")
