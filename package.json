@@ -15,7 +15,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "compilar": "webpack"
+    "compilar": "webpack",
+    "servidor" : "webpack-dev-server"
   },
   "eslintConfig": {
     "extends": "react-app"
